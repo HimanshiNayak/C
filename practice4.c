@@ -76,5 +76,9 @@
 
 // }
 
-// area of circle:
+// take char in input;
+// char ch
+// scanf("%c",&ch);
+
+
 
