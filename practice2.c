@@ -52,3 +52,7 @@ int main(){
 	return 0;
     
     }
+
+// take a sentence as input:
+// scanf("%[^\n]%*c];
+//       printf("%s",s)
