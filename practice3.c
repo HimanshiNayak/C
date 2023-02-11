@@ -1,4 +1,9 @@
-// // 1. rectangle 
+// to take a string as input:
+// char s[100];
+// scanf("%s",&s);
+
+
+// 1. rectangle 
 
 // #include <stdio.h>
 // int main(){
