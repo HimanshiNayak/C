@@ -1,7 +1,7 @@
 // Decimal to Hexadecimal:- 
 
 // 1. givemn  number "x" value in decimal
-// 2.divide x by 16 and add the remainder to hexadecimal
+// 2.divide x by 16 and add the remainder to  hexadecimal
 // 3.repeat it until x != 0
 // 4.read it in reverse
 
