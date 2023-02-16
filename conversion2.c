@@ -1,4 +1,4 @@
-// Decimal to Hexadecimal:- 
+//  Decimal to Hexadecimal:- 
 
 // 1. givemn  number "x" value in decimal
 // 2.divide x by 16 and add the remainder to  hexadecimal
