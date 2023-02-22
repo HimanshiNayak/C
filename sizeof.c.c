@@ -11,7 +11,7 @@ void main()
     // // printf("5");
     // // printf("%d",a);
     // // printf("%c",a);
-    // // printf("%d",sizeof(0.7));
+    // // printf("%d",sizeof(0.7)) ;
     // // printf("%d",sizeof(0.7f)) ;
     // printf(
 
