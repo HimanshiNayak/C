@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-    // int a =5;
+    // int a =5 ;
     // long a =6; # it wont be wrong as its not a strict language
     // we can't write short amd long ogether
     // long b = 6;
