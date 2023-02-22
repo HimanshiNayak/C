@@ -18,7 +18,7 @@ void main()
     // )
 
     // int a =15 ,b=10;
-    // printf("\n addition = %d",a+b) ;
+    // printf("\n addition = %d",a+b);
     // no need to write the long method , just use like this
 
 
