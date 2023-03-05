@@ -6,7 +6,7 @@
 // weight = base ^position
 
 
-// decimal values              binary values
+// decimal values             binary values
 // 0                                 0
 // 1                                 1
 // 2                                 10
