@@ -1,4 +1,4 @@
-//  a bit can either be 0 or 1
+// a bit can either be 0 or 1
 // bit - basic unit to represent a value
 // byte :- a sequence of 8 bits
 // decimal numbers :- consists of 10 digits from 0-9
