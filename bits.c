@@ -18,7 +18,7 @@
 // 8                                 1000
 
 
-// binary no. has a base 2:- 
+// binary no. has a base 2 :- 
 // binary to decimal :-
 // 1101 = 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0 = 8+4+1 = 13
 // weight = base^position
