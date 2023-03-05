@@ -1,6 +1,6 @@
 // a bit can either be 0 or 1
 // bit - basic unit to represent a value
-// byte :- a sequence of 8 bits
+// byte :- a sequence of 8 bits 
 // decimal numbers :- consists of 10 digits from 0-9
 // base10:- we can get new by just multiplying with powers of 10(decimal no.)
 // weight = base ^position
