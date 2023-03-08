@@ -62,3 +62,10 @@ int main(){
 //2.decision control
 //3.loop control
 //4.Case control
+
+//operators 
+//1.arithmetic operators 
+//2.relational operators
+//3.logical operators
+//4.bitwise operator
+//5.assignment operator
