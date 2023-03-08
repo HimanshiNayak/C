@@ -67,6 +67,9 @@ int main(){
 	int weight = 25;
 	float height = 4.8;
 	char name[10] = "Anisha";
+	printf("Num :%d\nWeight :%d\nHeight :%g\Name:%s",Num,weight,height,name);
+	return 0;
+}
 
 
 
