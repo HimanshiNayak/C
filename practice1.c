@@ -65,6 +65,8 @@ int main(){
 int main(){
 	int Num= 12;
 	int weight = 25;
+	float height = 4.8;
+	char name[10] = "Anisha";
 
 
 
