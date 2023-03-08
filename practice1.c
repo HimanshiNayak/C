@@ -46,5 +46,13 @@ int main()
     return 0;    
 }
 
+#include <stdio.h>
+int main(){
+	int x;
+	float y;
+	char z;
+	double p;
+	x=20;
+
 
 
