@@ -56,3 +56,9 @@ int main(){
 // take a sentence as input:
 // scanf("%[^\n]%*c];
 //       printf("%s",s)
+
+//control instructions : used to determine the flow of a program
+//1. sequence control
+//2.decision control
+//3.loop control
+//4.Case control
