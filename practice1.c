@@ -59,6 +59,12 @@ int main(){
 	printf("\n%d %10.2f %c %.2lf",x,y,z,p);
 	return 0;	
 }
+//we use %g  when we need the output value same as the input one
+
+#include <stdio.h>
+int main(){
+	int Num= 12;
+	int weight = 25;
 
 
 
