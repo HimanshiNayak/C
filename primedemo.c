@@ -20,6 +20,5 @@ void main()
 	else
 	{
 		printf(" Prime");
-	}
-	 
+	} 
 }
