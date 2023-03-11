@@ -14,7 +14,7 @@ int main (){
     int num1 = 5 ,  num2 = 2;
     float results;
     results = num1/num2;
-    printf("the result = %f " , results);
+    printf("the result = %f", results);
 
     return 0 ;
 }
