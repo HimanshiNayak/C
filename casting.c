@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main (){
-    int num1 = 5 , num2 = 2;
+    int num1 = 5,num2 = 2;
     int result;
     result = num1/num2;
     printf("the result = %d", result);
