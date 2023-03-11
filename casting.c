@@ -29,5 +29,5 @@ int main (){
     double result;
     result = num1/(double)num2;
     printf("the result = %lf" , result);
-    return 0 ;
+    return  0 ;
 }
