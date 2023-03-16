@@ -30,12 +30,12 @@ int main(){
       //else if ladder;
 
 // if - elseif- else
-
-
-
  int age;
  printf("Enter your age:\n");
  scanf("%d",&age);
+  if(age>=18){
+ printf("Adult.\n");
+printf("You can drive.\n");
  return 0;
 }
 
