@@ -31,7 +31,7 @@ int main(){
 
 // if - elseif- else
 
-#include<stdio.h>
+
 int main(){
  int age;
  printf("Enter your age:\n");
