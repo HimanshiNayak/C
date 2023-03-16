@@ -44,7 +44,13 @@ printf("You can drive.\n");
  	printf("Elder\n");
  	printf("You can't drive\n");
  }
+         else{
+ 	printf("You are not an adult.\n");
+ 	printf("You cannot drive.\n");
+ }
+ printf("Thank you"); // will always be printed
  return 0;
 }
+
 
 
