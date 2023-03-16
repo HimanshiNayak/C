@@ -32,7 +32,7 @@ int main(){
 // if - elseif- else
 
 
-int main(){
+
  int age;
  printf("Enter your age:\n");
  scanf("%d",&age);
