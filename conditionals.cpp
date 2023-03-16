@@ -26,6 +26,16 @@ int main(){
  	printf("You are not an adult.\n");
  }
  printf("Thank you"); // will always be printed
+      
+      //else if ladder;
+
+// if - elseif- else
+
+#include<stdio.h>
+int main(){
+ int age;
+ printf("Enter your age:\n");
+ scanf("%d",&age);
  return 0;
 }
 
