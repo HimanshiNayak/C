@@ -36,6 +36,14 @@ int main(){
   if(age>=18){
  printf("Adult.\n");
 printf("You can drive.\n");
+        else if(age>=13 && age<18){
+ 	printf("teenager \n");
+ 	printf("You can't drive\n")
+ }
+ else if(age>=85){
+ 	printf("Elder\n");
+ 	printf("You can't drive\n");
+ }
  return 0;
 }
 
