@@ -1,4 +1,4 @@
-// takes the value , checks the condition and then executes
+// takes the value ,  checks the condition and then executes
 
 //1. print * 10 times
 
