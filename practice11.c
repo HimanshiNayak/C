@@ -6,7 +6,7 @@ int main(){
     int units , tens , hundreds;
     printf("Enter a three digit no.: ");
     scanf("%d",&num);
-    units = num%10;
+    units = num%10; 
     tens = (num/10)%10;
     hundreds = num/100;
 
