@@ -35,7 +35,7 @@ Explanation:
 int main()
 {
 	// variable to store how many elements to be displayed in the series
-    int num,i;
+    int num ,i;
 	int first = 0, second = 1,next;  
     // taking user input
     printf("Enter the number of elements to be in the series : ");
@@ -53,3 +53,5 @@ int main()
 
     return 0;
 }
+
+
