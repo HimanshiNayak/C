@@ -16,6 +16,4 @@ kuch_nahi task()
 	{
 		printf("\n Arr[%d] = %d",i,Arr[i]);
 	}
-	
-
 }
