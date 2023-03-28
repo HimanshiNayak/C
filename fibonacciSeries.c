@@ -17,7 +17,7 @@ next = first + second // 1
 first = second; 
 second = next
 
-Explanation:
+Explanation: 
 0
 1
 0 + 1 = 1
