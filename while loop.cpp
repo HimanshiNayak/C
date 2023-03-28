@@ -10,7 +10,7 @@
 //		i = i+1;
 //	}
 //	return 0;
-//}
+// }
 
 //2. take the number of * to be printed from the user and print
 
