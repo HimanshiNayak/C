@@ -20,7 +20,7 @@ Pattern 2:
   AB
   A
   
-*/
+*/  
 
 #include<stdio.h>
 void main()
