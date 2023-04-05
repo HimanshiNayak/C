@@ -28,23 +28,23 @@
 
 
 /// 1. make two functions to say hello and bye together 
-//#include <stdio.h>
-//void hello();
-//void bye();
-//int main(){
-//    hello();
-//    bye();
-//    hello();
-//    bye();
-//	return 0;	
-//}
-//
-//void hello(){
-//	printf("Hello\n");
-//}
-//void bye (){
-//	printf("Bye :)\n");
-//}
+#include <stdio.h>
+void hello();
+void bye();
+int main(){
+   hello();
+   bye();
+   hello();
+   bye();
+	return 0;	
+}
+
+void hello(){
+	printf("Hello\n");
+}
+void bye (){
+	printf("Bye :)\n");
+}
 
 
 // 2. make a function which says namaste for indians and annyeong for korean
