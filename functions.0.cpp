@@ -49,28 +49,28 @@
 
 // 2. make a function which says namaste for indians and annyeong for korean
 
-//#include<stdio.h>
-//void namaste();
-//void anneyong();
-//
-//int main(){
-//	char x;
-//	printf("Enter i for indian and k for korean: ");
-//	scanf("%c",&x);
-//	if (x=='i'){
-//		namaste();
-//	}
-//	else{
-//		anneyong();
-//	}
-//	return 0;
-//}
-//void namaste(){
-//	printf("namaste\n");
-//}
-//void anneyong(){
-//	printf("anneyong\n");
-//}
+#include<stdio.h>
+void namaste();
+void anneyong();
+
+int main(){
+	char x;
+	printf("Enter i for indian and k for korean: ");
+	scanf("%c",&x);
+	if (x=='i'){
+		namaste();
+	}
+	else{
+		anneyong();
+	}
+	return 0;
+}
+void namaste(){
+	printf("namaste\n");
+}
+void anneyong(){
+	printf("anneyong\n");
+}
 
 //print hi if h and bye if b;
 
