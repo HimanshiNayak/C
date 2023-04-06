@@ -56,5 +56,30 @@ float product(float a, float b , float c){
 	return a*b*c;
 }
 
+// a function which compares the number
 
+#include <stdio.h>
+double max(double a , double b, double c);
+int main(){
+	double a,b,c;
+	printf("Enter first number: \n");
+	scanf("%d",&a);
+	printf("Enter second number: \n");
+	scanf("%d",&b);
+	printf("Enter third number: \n");
+	scanf("%d",&c);
+	double m = max(a,b,c);
+	printf("The greatest of the three is:%d",m);
+	return 0;
+}
+double max(double a , double b , double c){
+	if (a>=b and a>= c){
+		return a;
+		}
+	else if (b>=c and b>=a){
+		return b;
+	}
+	else {
+		return c;
+	}
 
