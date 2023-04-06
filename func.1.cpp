@@ -36,4 +36,25 @@ int sum(int a,int b){
 	return a+b ;
 	
 }
+//fun to multiply three float
+
+#include <stdio.h>
+float product (float a , float b , float c);
+int main(){
+	float a,b,c;
+	printf("Enter first number: \n");
+	scanf("%f",&a);
+	printf("Enter second number: \n");
+	scanf("%f",&b);
+	printf("Enter third number: \n");
+	scanf("%f",&c);
+	float p = product (a,b,c);
+	printf("The product of the three numbers is:%f ",p);
+	return 0;
+}
+float product(float a, float b , float c){
+	return a*b*c;
+}
+
+
 
