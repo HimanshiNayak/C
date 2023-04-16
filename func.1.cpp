@@ -82,4 +82,3 @@ double max(double a , double b , double c){
 	else {
 		return c;
 	}
-
