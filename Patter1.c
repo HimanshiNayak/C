@@ -1,5 +1,5 @@
 /*
-  Pattern Printing Program
+Pattern Printing Program
 Pattern 1:  
 
   *
