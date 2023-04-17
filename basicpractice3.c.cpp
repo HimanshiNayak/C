@@ -50,7 +50,7 @@ int main (){
 	//prefer ternary over if-else
 	
 	//Even odd using ternary 
-	//a%2==0?printf("Even"):printf("Odd");
+	//a%2==0? printf("Even"):printf("Odd");
 	
 	// positive - negative
    // a>=0?printf("positive"):printf("negative")
