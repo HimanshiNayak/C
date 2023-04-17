@@ -72,5 +72,5 @@ int main (){
     
 //with '=' it gave 0 as false ...with anythingelse it will give 0 as it is false.
 //with float , it gives int.
-//for more tha 10 digits , will give another answer
+//for more tha 10 digits , will give another answer 
 //if we take some input from user , then after the scanf statement ,perform expressions otherwise ERROR
