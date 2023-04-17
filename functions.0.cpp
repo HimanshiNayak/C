@@ -36,7 +36,7 @@ int main(){
    bye();
    hello();
    bye();
-	return 0;	
+   return 0;	
 }
 
 void hello(){
