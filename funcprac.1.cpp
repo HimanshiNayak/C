@@ -15,19 +15,19 @@
 //	    return c;
 //}
 //
-// int main(){
-// 	int a,b,c;
-// 	int greatest;
-// 	printf("Enter the first number: ");
-// 	scanf("%d",&a);
-// 	printf("Enter the second number: ");
-// 	scanf("%d",&b);
-// 	printf("Enter the third number: ");
-// 	scanf("%d",&c);
-// 	greatest = max(a,b,c);
-// 	printf("the max among the three is %d",greatest);
-// 	return 0;
-// }
+int main(){
+	int a,b,c;
+	int greatest;
+	printf("Enter the first number: ");
+	scanf("%d",&a);
+	printf("Enter the second number: ");
+	scanf("%d",&b);
+	printf("Enter the third number: ");
+	scanf("%d",&c);
+	greatest = max(a,b,c);
+	printf("the max among the three is %d",greatest);
+	return 0;
+}
  
  //average finder 
  
