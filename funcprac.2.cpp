@@ -1,3 +1,5 @@
+//area calculator
+
 #include<stdio.h>
 float area(int l,int b){
 	float lb;
