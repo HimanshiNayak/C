@@ -19,6 +19,7 @@ int main(){
 	return 0;
 }
 
+//greatest digit in a two digit number
 #include <stdio.h>
 void maxdigit(int num ){
 	if (num >99 || num<10 )
