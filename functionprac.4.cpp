@@ -1,19 +1,19 @@
-
-//#include <stdio.h>
-//void evenodd(int a){
-//	if (a%2 == 0){
-//		printf("%d is even.",a);
-//	}
-//	else 
-//	    printf("%d is odd.",a);
-//}
-//int main(){
-//	int a ;
-//	printf("Enter a number: ");
-//	scanf("%d",&a);
-//	evenodd(a);
-//	return 0;
-//}
+//odd even
+#include <stdio.h>
+void evenodd(int a){
+	if (a%2 == 0){
+		printf("%d is even.",a);
+	}
+	else 
+	    printf("%d is odd.",a);
+}
+int main(){
+	int a ;
+	printf("Enter a number: ");
+	scanf("%d",&a);
+	evenodd(a);
+	return 0;
+}
 
 // isodd(gives 1 when odd otherwise 0) 
 //#include <stdio.h>
