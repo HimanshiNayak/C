@@ -27,7 +27,6 @@ Explanation:
 5 + 3 = 8
 ...
 
-
 */ 
 
 #include <stdio.h>
